@@ -9,7 +9,7 @@ parts:
     - file: database/overview
     - file: database/fair-policy
     - file: database/structure
-    - file: database/open-research
+    - file: database/stober-method
       sections: 
         - file: database/how-to-use
         - file: database/data-version-policy
