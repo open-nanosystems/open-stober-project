@@ -4,10 +4,10 @@ The Stöber classical method is based on the base-catalyzed hydrolysis and conde
 
 The Stöber synthesis provides calibrated and monodispersed silica particles, is robust and scalable thanks to the simplicity of the method. Even with relatively few experimental parameters, there is no consensus on the relevance of different synthesis factors on the final diameter, and no model considers the totality of experimental results. A network representation was constructed considering the main reactions involved: hydrolysis, condensation, and interactions. The importance of each relationship between variables that influence the synthesis was defined based on previous works, leading to a highly connected network diagram.
 
-
+![Stöber Graph](https://github.com/open-nanosystems/open-stober-project/blob/main/docs/database/graph_stober.PNG "Text to show on mouseover")
 
 <p align="center">
-  ![Stöber Graph](https://github.com/open-nanosystems/open-stober-project/blob/main/docs/database/graph_stober.PNG "Text to show on mouseover")
+  <img src="https://github.com/open-nanosystems/open-stober-project/blob/main/docs/database/graph_stober.PNG" alt="drawing" width="600"/>
 </p>
 
-<img src="https://github.com/open-nanosystems/open-stober-project/blob/main/docs/database/graph_stober.PNG" alt="drawing" width="200"/>
+
