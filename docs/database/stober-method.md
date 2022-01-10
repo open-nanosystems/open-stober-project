@@ -7,7 +7,8 @@ The Stöber synthesis provides calibrated and monodispersed silica particles, is
 ![Stöber Graph](https://github.com/open-nanosystems/open-stober-project/blob/main/docs/database/graph_stober.PNG "Text to show on mouseover")
 
 <p align="center">
-  <img src="https://github.com/open-nanosystems/open-stober-project/blob/main/docs/database/graph_stober.PNG" onmouseover="Text to show on mouseover">
+  <img src="https://github.com/open-nanosystems/open-stober-project/blob/main/docs/database/graph_stober.PNG" onmouseover="this.src='b.jpg'">
 </p>
 
 
+ 
