@@ -1,5 +1,5 @@
-#
-*publish.sh
+# Delete scripts
+*.sh
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
