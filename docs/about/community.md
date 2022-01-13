@@ -8,7 +8,7 @@ Silica micro- and nanoparticles are highly useful materials for industrial appli
 
 ## Why an open project?
 
-With this open project, we aim at building a community of contributors for adding new synthesis data and using the dataset to make data analysis and create models that can help to better understand the nanosystem.
+With this open project, we aim at building a community of users and contributors that can add new synthesis data and use the database to make data analysis and create models that can help to better understand this complex nanosystem.
 
 Our long-term vision is that the nanosynthesis research community opens and shares its data as this will advance the nanosynthesis field in a more sustainable way globally.
 
