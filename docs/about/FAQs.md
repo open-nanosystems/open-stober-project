@@ -1,8 +1,7 @@
 # FAQ
 
 ### What is the license of the data on Open Stober Project?
-The dataset is backed by the [GNU General Public License](https://open-nanosystems.github.io/open-stober-project/about/License.html)
-
+All the data and citing information on the database is is backed by the [GNU General Public License](https://open-nanosystems.github.io/open-stober-project/about/License.html).
 ### How do I know the data will not be uploaded wrongly? 
 To upload new data we’ll ask you about your experimental conditions, results and citation information. Our team will receive your information and will contact you to let you know when it will be uploaded to the dataset. For more information on how to do this and what to do if you find your work data to be wrongly uploaded, check out the [**how to contribute**](https://open-nanosystems.github.io/open-stober-project/contribute/how.html) section.
 
