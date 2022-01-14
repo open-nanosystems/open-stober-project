@@ -1,0 +1,1 @@
+# How to cite The Open Stober Database
