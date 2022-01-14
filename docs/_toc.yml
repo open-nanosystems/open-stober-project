@@ -10,10 +10,12 @@ parts:
     - file: database/fair-policy
     - file: database/structure
     - file: database/stober-method
-    - file: database/how-to-use
-    - file: database/data-version-policy
-    - file: database/how-to-cite
-    - file: database/join
+    - file: database/open-research
+      sections:
+        - file: database/how-to-use
+        - file: database/data-version-policy
+        - file: database/how-to-cite
+        - file: database/join
 
   - caption: Contribute with data
     chapters:
